@@ -6,3 +6,4 @@ example/example.tab.h
 example/example.txt
 example/example.y
 example/lex.yy.c
+*.exe
