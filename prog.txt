@@ -1,0 +1,7 @@
+## LOOP
+
+
+PROGRAM Acad {
+    INTEGER Num $
+    Num := 5 $
+}

@@ -1,0 +1,8 @@
+example/build.cmd
+example/example.exe
+example/example.l
+example/example.tab.c
+example/example.tab.h
+example/example.txt
+example/example.y
+example/lex.yy.c
